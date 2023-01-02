@@ -19,7 +19,7 @@ def start(x):
 processes = cpu_count()
 # please be sure then clear hastags
 #pool = Pool(processes)
-#pool.map(start, range(processes*10))
+#pool.map(start, range(processes*6))
 
 
 #█▀▀ █▀█ █▄░█ █▀▀ █░█ █▀ █▀▀ █▀▄   █▀▀ █░█ ▄▀█ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█
