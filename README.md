@@ -4,9 +4,9 @@ Some Virus wroted in python for any system
 
 You can compile to exe for run
 
-** Please Read Hashtags in sources **
+**Please Read Hashtags in sources**
 
-#Warning
+# Warning
 
 ⚠️Please be sure to run these sources
 
