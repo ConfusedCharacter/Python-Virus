@@ -11,3 +11,5 @@ You can compile to exe for run
 ⚠️Please be sure to run these sources
 
 ⚠️Any misuse is your responsibility and not ours
+
+# Enjoy and Support us !
